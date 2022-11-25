@@ -1,6 +1,6 @@
-# 💫 Hello, Christoffer Jonsson here.
-I am a System Administrator, currently working as a Technical Project Manager.<br>For Digiflow AS. But i do like to make some small projects on my sparetime.<br>
-
+# 💫 Hi, i am Christoffer Jonsson.
+System Administrator for many years, currently working as Technical Project Manager.<br>For Digiflow AS. But i do like to make some small projects on my sparetime.<br>
+<br>I use Powershell, and Powershell Studio to create GUI and packages.<br>
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
